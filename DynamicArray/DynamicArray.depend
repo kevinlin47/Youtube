@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1512185279 source:c:\users\kevin lin\documents\c++\dynamicarray\dynamicarray.cpp
+	<iostream>
+	<stdexcept>
+	"DynamicArray.h"
+
+1512185493 source:c:\users\kevin lin\documents\c++\dynamicarray\main.cpp
+	"DynamicArray.h"
+	<iostream>
+
+1512183618 c:\users\kevin lin\documents\c++\dynamicarray\dynamicarray.h
+
